@@ -29,10 +29,10 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
+Developed by:sudharsan.j
+Registeration Number :212221220050
 */
-```
+
 activity_main.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -100,6 +100,7 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
+```
 
 ## OUTPUT
 
